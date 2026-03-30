@@ -54,5 +54,3 @@ Face_Recognition/
 - [ ] Experiment with CNNs or pre-trained embeddings (FaceNet).
 - [ ] Refactor code for portability (relative paths).
 
-
-**Maintained by [Adarsh S](https://github.com/samadarsh)**
