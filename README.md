@@ -1,4 +1,4 @@
-# 🧑‍🔬 Face Recognition System
+# 🧑‍🔬 Face Recognition using Machine Learning
 
 A simple machine learning project to classify facial images of three individuals using image preprocessing and Logistic Regression.
 
